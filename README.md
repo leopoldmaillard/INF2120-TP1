@@ -1,2 +1,2 @@
 # INF2120-TP1
-Java TP1. Ré-échantillonnage de points représentants une courbe en utilisant des méthodes d'approximation.
+TP1 Java, Ré-échantillonnage de points représentants une courbe en utilisant des méthodes d'approximation.
